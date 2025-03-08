@@ -1,0 +1,9 @@
+[submodule "Project#1"]
+	path = "Project#1"
+	url = https://github.com/ismailozgenc/EE443-Homework-P1
+[submodule "Project#2"]
+	path = "Project#2"
+	url = https://github.com/ismailozgenc/EE443-Homework-P2
+[submodule "Project#3"]
+	path = "Project#3"
+	url = https://github.com/ismailozgenc/EE443-Homework-P3
