@@ -9,6 +9,10 @@ The following projects are included in this repository.
 1. [**Project #1**](https://github.com/ismailozgenc/EE443-Homework-P1)
 2. [**Project #2**](https://github.com/ismailozgenc/EE443-Homework-P2)
 3. [**Project #3**](https://github.com/ismailozgenc/EE443-Homework-P3)
+4. [**Project #4**](https://github.com/ismailozgenc/EE443-Homework-P4)
+5. [**Project #5**](https://github.com/ismailozgenc/EE443-Homework-P5)
+
+
 
 Each project is organized in separate folders containing the source code, reports, and any other required materials. Additional projects will be added as the course progresses.
 
